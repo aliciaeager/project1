@@ -1,5 +1,9 @@
 jadwal sim:
+materi 1 : 
 -kontrak
 -pendahuluan
 -review babs
 -koneksi data dari sql ke r
+materi 2 :
+-review analisis data
+-pengenalan markdown
